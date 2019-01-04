@@ -1,0 +1,14 @@
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\obj\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.csproj.CoreCompileInputs.cache
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\obj\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.AssemblyInfoInputs.cache
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\obj\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.AssemblyInfo.cs
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\bin\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.exe
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\bin\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.deps.json
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\bin\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.runtimeconfig.json
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\bin\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.runtimeconfig.dev.json
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\bin\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.dll
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\bin\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.pdb
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\obj\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.csprojAssemblyReference.cache
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\obj\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.dll
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\WriteTimeLogs\obj\Debug\netcoreapp2.0\win7-x64\WriteTimeLogs.pdb

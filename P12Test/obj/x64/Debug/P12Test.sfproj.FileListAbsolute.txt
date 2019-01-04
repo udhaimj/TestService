@@ -1,0 +1,1 @@
+C:\P12\SampleApplications\ServiceFabricApp\P12Test\P12Test\P12Test\obj\x64\Debug\P12Test.sfproj.CoreCompileInputs.cache
